@@ -6,6 +6,8 @@ I mostly write Python, but I like poking at new languages whenever a project giv
 
 Right now I'm splitting my time between coursework and internship work, so my repos are a mix of school projects, experiments, and whatever I'm learning that week.
 
+Developed hands-on robotics projects in school, including a weather monitoring system that tracked temperature and humidity, and a self-driving car capable of navigating autonomously.
+
 **Fun facts:**
 - 🇸🇪 Based in Sweden
 - 🚀 Interning at NASA
