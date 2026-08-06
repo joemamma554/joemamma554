@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**joemamma554/joemamma554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student based in Sweden, currently interning at **NASA.**
 
-Here are some ideas to get you started:
+I mostly write Python, but I like poking at new languages whenever a project gives me an excuse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm splitting my time between coursework and internship work, so my repos are a mix of school projects, experiments, and whatever I'm learning that week.
+
+**Fun facts:**
+- 🇸🇪 Based in Sweden
+- 🚀 Interning at NASA
+- 🐍 Python is home base, but I'm always down to try something new
+- 📚 Big reader — always mid-book
+- 🏋️ Gym is part of the routine
+- 📺 Always have a show going in the background
+
+Feel free to look around — more to come as I keep building.
