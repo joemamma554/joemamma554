@@ -13,7 +13,8 @@ Developed hands-on robotics projects in school, including a weather monitoring s
 - 🚀 Interning at NASA
 - 🐍 Python is home base, but I'm always down to try something new
 - 📚 Big reader — always mid-book
-- 🏋️ Gym is part of the routine
-- 📺 Always have a show going in the background
+- ✅ Building a routine is what i do best
+- 📝 Use posted notes to keep track of my goals
+- 📺 Always have a show or a game going in the background
 
 Feel free to look around — more to come as I keep building.
